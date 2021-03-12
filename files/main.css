@@ -1156,7 +1156,7 @@ label.invalidInput {color: #E80636;font-size: 90%;}
 .block-title .title i {display: none;}
 .product-tabs .tabs {display: block;width: 100%;margin-bottom: 0;}
 .product-tabs .tabs li {border-right: 1px solid #eacd8e;}
-.product-tabs .content {display: block;width: 100%;padding: 15px;border: 1px solid #eacd8e;border-top: 0;min-height: auto;margin-left: 0;}
+.product-tabs .content {display: block;width: 100%;padding: 15px 0;border: 1px solid #eacd8e;border-top: 0;min-height: auto;margin-left: 0;}
 .product-tabs .tab-content {padding-bottom: 0;}
 .CompareGoodsTableFilter {line-height: 1;}
 .CompareGoodsTableFilter span {margin-bottom: 10px;}
